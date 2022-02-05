@@ -1,0 +1,40 @@
+<div class="accordion" id="thesis-accordion">
+    {% for group in groups %}
+    <div class="card">
+        <div class="card-header text-white" style="background-color: #B90F22;">
+            <div data-target="#{{ group.short }}" data-toggle="collapse">
+                <h4 class="mb-0">{{ group.name }}</h4>
+            </div>
+        </div>
+        <div class="collapse" id="{{ group.short }}" data-parent="#thesis-accordion">
+            <div class="card card-body">
+                <a class="btn btn-outline-danger" role="button" href="{{ group.website }}">{{ _("Website") }}</a>
+                <table class="table table-borderless table-hover mt-2">
+                    <tbody>
+                        <tr>
+                            <td class="text-left">{{ _("Languages") }}</td>
+                            <td class="text-left">
+                                {% if group.languages and 'de' in group.languages %}
+                                <span class="badge badge-pill badge-info">{{ _("German") }}</span>
+                                {% endif %}
+                                {% if group.languages and 'en' in group.languages %}
+                                <span class="badge badge-pill badge-secondary">{{ _("English") }}</span>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-left">{{ _("Special Notes") }}</td>
+                            <td class="text-left">{% if group.special_notes != "" %}
+                                {{ group.special_notes | safe }}
+                                {% else %}
+                                <small class="text-muted">{{ _("None") }}</small>
+                                {% endif %}
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
