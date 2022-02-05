@@ -1,6 +1,10 @@
+import os
+import shutil
+
 from jinja2 import FileSystemLoader, Environment, select_autoescape
 from babel.support import Translations
 from csv import DictReader
+import os.path as osp
 
 
 def load_data():
@@ -22,15 +26,19 @@ def main():
     template = env.get_template("accordion.html.j2")
     data_d, data_e = load_data()
 
+    if osp.exists("build"):
+        shutil.rmtree("build")
+    os.mkdir("build")
+
     translations = Translations.load("locale", ["en"])
     env.install_gettext_translations(translations)
-    with open("english.html", "w") as f:
+    with open("build/english.html", "w") as f:
         f.write(template.render(groups=data_e))
 
     translations = Translations.load("locale", ["de"])
     env.install_gettext_translations(translations)
     template = env.get_template("accordion.html.j2")
-    with open("german.html", "w") as f:
+    with open("build/german.html", "w") as f:
         f.write(template.render(groups=data_d))
 
 
