@@ -1,7 +1,6 @@
 name;short;languages;website;special_notes
 Algorithmik;algo;de en;https://www.algo.informatik.tu-darmstadt.de/#thesis;"Allgemeine Anforderungen an Thesen am FG findest du <a href=""https://www.algo.informatik.tu-darmstadt.de/thesis_requirements.pdf"">hier</a> (Englisch)"
 Angewandte Kryptographie (CAC);cac;de en;https://www.informatik.tu-darmstadt.de/cac/teaching_cac/theses_cac/index.en.jsp;
-Ankerlogie und Interdimensionale Programmierung (AIP);aip;de en;https://d120.github.io/theses_overview/cyberrallye.pdf;
 Cryptography and Network Security;cns;de en;https://www.informatik.tu-darmstadt.de/cns/teaching_cns/theses_cns/;
 Data Management (DM);dm;de en;https://www.informatik.tu-darmstadt.de/datamanagement/datamanagement/dm_teaching/dm_teaching_thesis/dm_teaching_thesis_guidelines/index.en.jsp;Send a mail to carsten.binnig@cs.tu-darmstadt.de after choosing
 Distributed Systems and Computer Networks Lab (DSLab);dsl;en;https://www.informatik.tu-darmstadt.de/dslab/home_dslab/index.en.jsp;For questions about theses, email zsolt.istvan@cs.tu-darmstadt.de
@@ -11,14 +10,12 @@ Intelligent Autonomous Systems (IAS);ias;de en;https://www.ias.informatik.tu-dar
 Intelligent Robotic Systems for Assistant (iROSA);irosa;en;https://irosalab.com/theses;
 Modellierung und Analyse von Informationssystemen (MAIS);mais;de en;https://www.mais.informatik.tu-darmstadt.de/OffersForStudents.html;Read the information on the website and contact potential advisors via mail
 Multimedia Communications Lab (KOM);kom;de en;https://www.kom.tu-darmstadt.de/teaching/theses/open/;"Please contact the supervisors directly if you are interested. In addition to the advertised topics, we are open to suggestions for topics from related fields (see supervisor profiles). You can find our theses guidelines <a href=""https://www.kom.tu-darmstadt.de/teaching/theses/guidelines/"">here</a>."
-NLP for the Humanities;nlph;de en;https://www.informatik.tu-darmstadt.de/aiphes/aiphes/irg_position/;
 Parallele Programmierung;pp;de en;https://www.parallel.informatik.tu-darmstadt.de/get-involved/overview/get-involved-overview.html#theses;
 Praktische Kryptographie und Privatheit;pkp;de en;https://encrypto.de/theses;
-Quantum and Physical attack resistant Cryptography (QPC);qpc;de en;https://www.informatik.tu-darmstadt.de/qpc/teaching_qpc/theses_qpc/index.de.jsp;
 Scientific Computing (SC);sc;de en;https://www.informatik.tu-darmstadt.de/sc/edu/abschlussarbeiten/index.en.jsp;
 Secure Mobile Networking Lab (SEEMOO);seemoo;de en;https://seemoo.de/theses;"If no topic interests you, use this <a href=""https://seemoo.de/thesis_application/"">form</a>"
 Semantik und Verifikation paralleler Systeme;svps;de en;https://www.informatik.tu-darmstadt.de/svpsys/semantik_und_verifikation_paralleler_systeme_svpsys/lehre_svpsys/theses_svpsys/index.de.jsp;
-Simulation, Systemoptimierung und Robotik (SIM);sim;de en;https://www.sim.informatik.tu-darmstadt.de/edu/stud/;Send a mail to studarbeit@sim.tu-darmstadt.de after reading the information on the website
+Simulation, Systemoptimierung und Robotik (SIM);sim;de en;https://www.informatik.tu-darmstadt.de/sim/studium/studentische_arbeiten_sim/master_bachelor_arbeiten_sim/studienbegleitende_arbeiten_1/index.en.jsp;Send a mail to studarbeit@sim.tu-darmstadt.de after reading the information on the website
 Software Engineering (SE);se;de en;https://www.informatik.tu-darmstadt.de/se/teaching_9/nav_theses/ausgeschriebene_arbeiten/index.en.jsp;
 Softwaretechnik (ST);st;de en;https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/index.en.jsp;"For additional thesis topics see the <a href=""https://programming-group.com/teaching#theses"">page</a> of the programming group."
 Systemsicherheit;syssec;de en;https://www.informatik.tu-darmstadt.de/systemsecurity/teaching_sys/bachelor_master_topics_sys_1/index.en.jsp;If interested in a topic, send a mail to ahmad.sadeghi@trust.tu-darmstadt.de
