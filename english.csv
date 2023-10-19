@@ -1,37 +1,37 @@
 name;short;languages;website;special_notes
-Artificial Intelligence and Machine Learning (AIML);aiml;de en;https://www.ml.informatik.tu-darmstadt.de/;
 Algorithmics;algo;de en;https://www.algo.informatik.tu-darmstadt.de/#thesis;"Allgemeine Anforderungen an Thesen am FG findest du <a href=""https://www.algo.informatik.tu-darmstadt.de/thesis_requirements.pdf"">hier</a> (Englisch)"
 Applied Cryptography (CAC);cac;de en;https://www.informatik.tu-darmstadt.de/cac/teaching_cac/theses_cac/index.en.jsp;
+Artificial Intelligence and Machine Learning (AIML);aiml;de en;https://www.ml.informatik.tu-darmstadt.de/;
 Cryptography and Network Security;cns;de en;https://www.informatik.tu-darmstadt.de/cns/teaching_cns/theses_cns/;
+Cryptography and Privacy Engineering Group (ENCRYPTO);encrypto;de en;https://www.encrypto.cs.tu-darmstadt.de/teaching_theses/thesis_topics/open_theses_list/index.en.jsp;
 Cryptoplexity;cx;de en;https://www.cryptoplexity.informatik.tu-darmstadt.de/teaching_cryptoplexity/theses/writing_thesis/index.en.jsp;
 Data and AI Systems (DAI);dai;de en;https://www.informatik.tu-darmstadt.de/systems/teach/write_your_thesis/index.en.jsp;Send a mail to carsten.binnig@cs.tu-darmstadt.de after choosing
 Distributed and Networked Systems (DAN);dan;en;https://www.informatik.tu-darmstadt.de/systems/teach/write_your_thesis/index.en.jsp;For questions about theses, email zsolt.istvan@cs.tu-darmstadt.de
-Cryptography and Privacy Engineering Group (ENCRYPTO);encrypto;de en;https://www.encrypto.cs.tu-darmstadt.de/teaching_theses/thesis_topics/open_theses_list/index.en.jsp;
-Real-Time Systems (ES);es;de en;https://www.es.tu-darmstadt.de/lehre/abschlussarbeiten;
 Embedded Systems and Applications Group (ESA);esa;de en;https://www.esa.informatik.tu-darmstadt.de/content/theses;
 Graphisch-Interaktive Systeme (GRIS);gris;de en;https://moodle.informatik.tu-darmstadt.de/course/view.php?id=935;
 Intelligent Algorithms in Modeling and Simulation (IAMS) ;iams;de en;https://www.informatik.tu-darmstadt.de/iams/home_iams/index.en.jsp;
 Intelligent Autonomous Systems (IAS);ias;de en;https://www.ias.informatik.tu-darmstadt.de/Theses/OpenTopics;
 Interactive AI algorithms & cognitive models for human-AI interaction (IKIDA);ikida;de en;https://www.tu-darmstadt.de/cogsci/research_ccs/projects_ccs/ikida.en.jsp;
-Software & Digital Business Group;is;de en;https://www.is.tu-darmstadt.de/is_teaching/is_abschlussarbeiten_neu/is_abschlussarbeiten/index.en.jsp;Not all theses are for FB01 students. Please check the description.
-Multimedia Communications Lab (KOM);kom;de en;https://www.kom.tu-darmstadt.de/teaching/theses/open/;"Please contact the supervisors directly if you are interested. In addition to the advertised topics, we are open to suggestions for topics from related fields (see supervisor profiles). You can find our theses guidelines <a href=""https://www.kom.tu-darmstadt.de/teaching/theses/guidelines/"">here</a>."
-Modellierung und Analyse von Informationssystemen (MAIS);mais;de en;https://www.mais.informatik.tu-darmstadt.de/theses.html;Read the information on the website and contact potential advisors via mail
-Parallel Programming (PARA);para;de en;https://www.parallel.informatik.tu-darmstadt.de/get-involved/overview/get-involved-overview.html#theses;
 Interactive Robot Perception and Learning (PEARL);pearl;en;https://irosalab.com/theses;
-Science and Technology for Peace and Security (PEASEC);peasec;de en;https://peasec.de/lehre/thesis/;
+Modellierung und Analyse von Informationssystemen (MAIS);mais;de en;https://www.mais.informatik.tu-darmstadt.de/theses.html;Read the information on the website and contact potential advisors via mail
+Multimedia Communications Lab (KOM);kom;de en;https://www.kom.tu-darmstadt.de/teaching/theses/open/;"Please contact the supervisors directly if you are interested. In addition to the advertised topics, we are open to suggestions for topics from related fields (see supervisor profiles). You can find our theses guidelines <a href=""https://www.kom.tu-darmstadt.de/teaching/theses/guidelines/"">here</a>."
+Parallel Programming (PARA);para;de en;https://www.parallel.informatik.tu-darmstadt.de/get-involved/overview/get-involved-overview.html#theses;
 Praktische Kryptographie und Privatheit;pkp;de en;https://encrypto.de/theses;
 Quantum Computing (QC);qc;de en;https://www.informatik.tu-darmstadt.de/qc/research_qc/theses_qc/index.en.jsp;
+Real-Time Systems (ES);es;de en;https://www.es.tu-darmstadt.de/lehre/abschlussarbeiten;
+Science and Technology for Peace and Security (PEASEC);peasec;de en;https://peasec.de/lehre/thesis/;
 Scientific Computing (SC);sc;de en;https://www.informatik.tu-darmstadt.de/sc/edu/abschlussarbeiten/index.en.jsp;
-Software Engineering (SE);se;de en;https://www.informatik.tu-darmstadt.de/se/teaching_9/nav_theses/ausgeschriebene_arbeiten/index.en.jsp;
 Secure Mobile Networking Lab (SEEMOO);seemoo;de en;https://seemoo.de/theses;"If no topic interests you, use this <a href=""https://seemoo.de/thesis_application/"">form</a>"
-Simulation, Systems Optimization and Robotics (SIM);sim;de en;https://www.informatik.tu-darmstadt.de/sim/studium/studentische_arbeiten_sim/index.en.jsp;Send a mail to studarbeit@sim.tu-darmstadt.de after reading the information on the website
 Security in Information Technology (SIT);sit;de en;https://www.sit.tu-darmstadt.de/de/;
-Software Technology Group (ST);st;de en;https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/index.en.jsp;"For additional thesis topics see the <a href=""https://programming-group.com/teaching#theses"">page</a> of the programming group."
 Semantik und Verifikation paralleler Systeme;svps;de en;https://www.informatik.tu-darmstadt.de/svpsys/semantik_und_verifikation_paralleler_systeme_svpsys/lehre_svpsys/theses_svpsys/index.en.jsp;
+Simulation, Systems Optimization and Robotics (SIM);sim;de en;https://www.informatik.tu-darmstadt.de/sim/studium/studentische_arbeiten_sim/index.en.jsp;Send a mail to studarbeit@sim.tu-darmstadt.de after reading the information on the website
+Software & Digital Business Group;is;de en;https://www.is.tu-darmstadt.de/is_teaching/is_abschlussarbeiten_neu/is_abschlussarbeiten/index.en.jsp;Not all theses are for FB01 students. Please check the description.
+Software Engineering (SE);se;de en;https://www.informatik.tu-darmstadt.de/se/teaching_9/nav_theses/ausgeschriebene_arbeiten/index.en.jsp;
+Software Technology Group (ST);st;de en;https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/index.en.jsp;"For additional thesis topics see the <a href=""https://programming-group.com/teaching#theses"">page</a> of the programming group."
 System Security Lab;syssec;de en;https://www.informatik.tu-darmstadt.de/systemsecurity/teaching_sys/bachelor_master_topics_sys_1/index.en.jsp;If interested in a topic, send a mail to ahmad.sadeghi@trust.tu-darmstadt.de
-Trustworthy Human Language Technologies;thlt;de en;https://www.trusthlt.org/;Use the search function to look for thesis by Ivan Habernal
 Telecooperation Lab;tk;de en;https://www.informatik.tu-darmstadt.de/telekooperation/teaching_tk/abschlussarbeiten_tk/aktuelle_arbeiten_tk/index.en.jsp;"You can find advice by the group regarding getting a topic <a href=""https://www.informatik.tu-darmstadt.de/telekooperation/teaching_6/abschlussarbeiten_1/index.en.jsp"">here</a>"
 Theorie Paralleler Systeme;tps;de en;https://www.informatik.tu-darmstadt.de/tps/theorie_paralleler_systeme_tps/lehre_tps/abschlussarbeiten_tps/index.de.jsp;
+Trustworthy Human Language Technologies;thlt;de en;https://www.trusthlt.org/;Use the search function to look for thesis by Ivan Habernal
 Ubiquitäre Wissensverarbeitung (UKP);ukp;de en;https://www.informatik.tu-darmstadt.de/ukp/teaching_ukp/ukp_teaching_theses/ukp_theses_open/index.en.jsp;All thesis application should be send to thesis@ukp.informatik.tu-darmstadt.de
 Visual Inference Lab (VISINF);vi;de en;https://www.visinf.tu-darmstadt.de/teaching_vi/theses_1/vi_theses.en.jsp;
 Wireless Communication and Sensing Lab (WISE);wise;de en;https://www.wise.informatik.tu-darmstadt.de/theses/;"If no topic interests you, use this <a href=""https://www.wise.informatik.tu-darmstadt.de/thesis_application/"">form</a>"
