@@ -2,7 +2,6 @@ name;short;languages;website;special_notes
 Algorithmik;algo;de en;https://www.algo.informatik.tu-darmstadt.de/#thesis;"You can find general requirements for a thesis at ALGO <a href=""https://www.algo.informatik.tu-darmstadt.de/thesis_requirements.pdf"">here</a>"
 Angewandte Kryptographie (CAC);cac;de en;https://www.informatik.tu-darmstadt.de/cac/teaching_cac/theses_cac/index.en.jsp;
 Cryptography and Network Security;cns;de en;https://www.informatik.tu-darmstadt.de/cns/teaching_cns/theses_cns/;
-Daten- und AI-Systeme (DAI);dai;de en;https://www.informatik.tu-darmstadt.de/systems/teach/write_your_thesis/index.en.jsp;Bewerbungen an carsten.binnig@cs.tu-darmstadt.de
 Echtzeitsysteme (ES);es;de en;https://www.es.tu-darmstadt.de/lehre/abschlussarbeiten;
 Eingebettete Systeme und ihre Anwendungen (ESA);esa;de en;https://www.esa.informatik.tu-darmstadt.de/content/theses;
 Graphisch-Interaktive Systeme (GRIS);gris;de en;https://moodle.informatik.tu-darmstadt.de/course/view.php?id=935;
@@ -14,6 +13,7 @@ Kryptographie und Komplexitätstheorie (Cryptoplexity);cx;de en;https://www.cryp
 Künstliche Intelligenz und Maschinelles Lernen (AIML);aiml;de en;https://www.ml.informatik.tu-darmstadt.de/;
 Modellierung und Analyse von Informationssystemen (MAIS);mais;de en;https://www.mais.informatik.tu-darmstadt.de/theses.html;Bitte die verlinkten Hinweise beachten und potentielle Betreuer*innen direkt kontaktieren.
 Multimedia Kommunikation (KOM);kom;de en;https://www.kom.tu-darmstadt.de/teaching/theses/open/;"Bitte bei Interesse die Betreuer*innen direkt kontaktieren. Neben den ausgeschriebenen Themen sind wir offen für Themenvorschläge aus verwandten Gebieten (siehe Profile der Mitarbeiter*innen). Einen Leitfaden zu Abschlussarbeiten bei KOM findest du <a href=""https://www.kom.tu-darmstadt.de/teaching/theses/guidelines/"">hier</a>."
+Multimodal Reliable Artificial Intelligence ;mrai;de en;https://rohrbach.vision/;Deutsch möglich, aber Englisch bevorzugt. Erste Angebote vermutlich in SS 2024 möglich.
 Parallele Programmierung (PARA);para;de en;https://www.parallel.informatik.tu-darmstadt.de/get-involved/overview/get-involved-overview.html#theses;
 Praktische Kryptographie und Privatheit (ENCRYPTO);encrypto;de en;https://www.encrypto.cs.tu-darmstadt.de/teaching_theses/thesis_topics/open_theses_list/index.en.jsp;
 Quantencomputing (QC);qc;de en;https://www.informatik.tu-darmstadt.de/qc/research_qc/theses_qc/index.en.jsp;
@@ -26,11 +26,10 @@ Software & Digital Business Group;is;de en;https://www.is.tu-darmstadt.de/is_tea
 Software Engineering (SE);se;de en;https://www.informatik.tu-darmstadt.de/se/teaching_9/nav_theses/ausgeschriebene_arbeiten/index.de.jsp;
 Softwaretechnik (ST);st;de en;https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/index.en.jsp;"Mehr Themen gibt es auf der <a href=""https://programming-group.com/teaching#theses"">Webseite</a> der Programming Group. "
 Systemsicherheit;syssec;de en;https://www.informatik.tu-darmstadt.de/systemsecurity/teaching_sys/bachelor_master_topics_sys_1/index.en.jsp;Bewerbungen (auf Englisch) an ahmad.sadeghi@trust.tu-darmstadt.de
+Systems Group;systems;de en;https://www.informatik.tu-darmstadt.de/systems/teach/write_your_thesis/index.en.jsp;Prof. Binnig und Prof. Istvan können über systems-profs@cs.tu-darmstadt.de kontaktiert werden
 Telekooperation;tk;de en;https://www.informatik.tu-darmstadt.de/telekooperation/teaching_tk/abschlussarbeiten_tk/aktuelle_arbeiten_tk/index.en.jsp;"Du findest einige allgemeine Hinweise zur Themenvergabe <a href=""https://www.informatik.tu-darmstadt.de/telekooperation/teaching_6/abschlussarbeiten_1/index.en.jsp"">hier</a>"
 Theorie Paralleler Systeme;tps;de en;https://www.informatik.tu-darmstadt.de/tps/theorie_paralleler_systeme_tps/lehre_tps/abschlussarbeiten_tps/index.de.jsp;
 Trustworthy Human Language Technologies (TrustHLT);thlt;de en;https://www.trusthlt.org/;Über die Suchfunktion kann nach Angeboten von Ivan Habernal gefiltert werden.
 Ubiquitäre Wissensverarbeitung (UKP);ukp;de en;https://www.informatik.tu-darmstadt.de/ukp/teaching_ukp/ukp_teaching_theses/ukp_theses_open/index.de.jsp;Bewerbungen an thesis@ukp.informatik.tu-darmstadt.de
-Verteilte und vernetzte Systeme (DAN);dan;en;https://www.informatik.tu-darmstadt.de/systems/teach/write_your_thesis/index.en.jsp;Bei Fragen, bitte an zsolt.istvan@cs.tu-darmstadt.de wenden (auf Englisch)
 Visuelle Inferenz (VISINF);visinf;de en;https://www.visinf.tu-darmstadt.de/teaching_vi/theses_1/vi_theses.en.jsp;
 Wissenschaft und Technik für Frieden und Sicherheit (PEASEC);peasec;de en;https://peasec.de/lehre/thesis/;
-Wireless Communication and Sensing Lab (WISE);wise;de en;https://www.wise.informatik.tu-darmstadt.de/theses/;
